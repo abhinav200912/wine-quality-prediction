@@ -30,3 +30,6 @@ The objectives of this project are as follows:-
 To experiment with different classification methods to see which yields the highest accuracy.
 
 To determine which features are the most indicative of a good quality wine.
+
+
+By looking into the details, we can see that good quality wines have higher levels of alcohol on average, have a lower volatile acidity on average, higher levels of sulphates on average, and higher levels of residual sugar on average.
